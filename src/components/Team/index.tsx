@@ -5,38 +5,65 @@ import SingleTeam from "./SingleTeam";
 const teamData: TeamType[] = [
   {
     id: 1,
-    name: "Adveen Desuza",
-    designation: "UI Designer",
-    image: "/images/team/team-01.png",
+    name: "Ashfaqur Rahman",
+    designation: "Chief Coordinator",
+    image: "/images/team/ashfaq.png",
     facebookLink: "/#",
-    twitterLink: "/#",
+    linkedinLink: "/#",
     instagramLink: "/#",
   },
   {
     id: 2,
-    name: "Jezmin uniya",
-    designation: "Product Designer",
-    image: "/images/team/team-02.png",
+    name: "Mahadi Sajjad Neloy",
+    designation: "Systems Engineer",
+    image: "/images/team/neloy.png",
     facebookLink: "/#",
-    twitterLink: "/#",
+    linkedinLink: "/#",
     instagramLink: "/#",
   },
   {
     id: 3,
-    name: "Andrieo Gloree",
-    designation: "App Developer",
-    image: "/images/team/team-03.png",
+    name: "Mumtahin Sifat",
+    designation: "Marketing Lead",
+    image: "/images/team/sifat.png",
     facebookLink: "/#",
-    twitterLink: "/#",
+    linkedinLink: "/#",
     instagramLink: "/#",
   },
   {
     id: 4,
-    name: "Jackie Sanders",
-    designation: "Content Writer",
-    image: "/images/team/team-04.png",
+    name: "Abid Hasan",
+    designation: "IT Lead",
+    image: "/images/team/abid.png",
     facebookLink: "/#",
-    twitterLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+  },
+  {
+    id: 4,
+    name: "Imranul Karim",
+    designation: "Operation Manager",
+    image: "/images/team/imran.png",
+    facebookLink: "https://www.facebook.com/blackbeardimran",
+    linkedinLink: "https://www.linkedin.com/in/imranulkarim/",
+    instagramLink: "/#",
+  },
+  {
+    id: 4,
+    name: "Rafia Safa",
+    designation: "HR Lead",
+    image: "/images/team/safa.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+  },
+  {
+    id: 4,
+    name: "Sultana Rajia",
+    designation: "Project Strategist",
+    image: "/images/team/trisha.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
     instagramLink: "/#",
   },
 ];
@@ -52,7 +79,7 @@ const Team = () => {
           <SectionTitle
             subtitle="Our Team"
             title="Meet Our Team"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="Our team is passionate about youth empowerment, combining civic education and technology to foster growth and leadership."
             width="640px"
             center
           />

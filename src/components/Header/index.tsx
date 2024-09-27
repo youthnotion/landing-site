@@ -66,16 +66,16 @@ const Header = () => {
                     <Image
                       src={`/images/logo/logo.svg`}
                       alt="logo"
-                      width={240}
-                      height={30}
-                      className="header-logo w-full dark:hidden"
+                      width={10}
+                      height={10}
+                      className="header-logo w-14 dark:hidden"
                     />
                     <Image
-                      src={`/images/logo/logo-white.svg`}
+                      src={`/images/logo/logo.svg`}
                       alt="logo"
-                      width={240}
-                      height={30}
-                      className="header-logo hidden w-full dark:block"
+                      width={10}
+                      height={10}
+                      className="header-logo hidden w-14 dark:block"
                     />
                   </>
                 ) : (
@@ -84,19 +84,19 @@ const Header = () => {
                       src={`${
                         sticky
                           ? "/images/logo/logo.svg"
-                          : "/images/logo/logo-white.svg"
+                          : "/images/logo/logo.svg"
                       }`}
                       alt="logo"
-                      width={140}
-                      height={30}
-                      className="header-logo w-full dark:hidden"
+                      width={10}
+                      height={10}
+                      className="header-logo w-14 dark:hidden"
                     />
                     <Image
-                      src={"/images/logo/logo-white.svg"}
+                      src={"/images/logo/logo.svg"}
                       alt="logo"
-                      width={140}
-                      height={30}
-                      className="header-logo hidden w-full dark:block"
+                      width={10}
+                      height={10}
+                      className="header-logo hidden w-14 dark:block"
                     />
                   </>
                 )}
@@ -286,7 +286,7 @@ const Header = () => {
                   </span>
                 </button>
 
-                {session?.user ? (
+                {/* {session?.user ? (
                   <>
                     <p
                       className={`loginBtn px-7 py-3 text-base font-medium ${
@@ -342,7 +342,7 @@ const Header = () => {
                           href="/signup"
                           className={`rounded-lg px-6 py-3 text-base font-medium text-white duration-300 ease-in-out ${
                             sticky
-                              ? "bg-primary hover:bg-primary/90 dark:bg-white/10 dark:hover:bg-white/20"
+                              ? "bg- hover:bg-primary/90 dark:bg-white/10 dark:hover:bg-white/20"
                               : "bg-white/10 hover:bg-white/20"
                           }`}
                         >
@@ -351,7 +351,7 @@ const Header = () => {
                       </>
                     )}
                   </>
-                )}
+                )} */}
               </div>
             </div>
           </div>

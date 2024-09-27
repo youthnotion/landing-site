@@ -21,8 +21,7 @@ const Footer = () => {
                 />
               </Link>
               <p className="mb-8 max-w-[270px] text-base text-gray-7">
-                We create digital experiences for brands and companies by using
-                technology.
+                We empower youth to grow and become valuable asset for both society and the country.
               </p>
               <div className="-mx-3 flex items-center">
                 <a
@@ -288,7 +287,7 @@ const Footer = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full px-4 md:w-1/3 lg:w-1/2">
+            {/* <div className="w-full px-4 md:w-1/3 lg:w-1/2">
               <div className="my-1 flex justify-center md:justify-end">
                 <p className="text-base text-gray-7">
                   Designed and Developed by{" "}
@@ -302,7 +301,7 @@ const Footer = () => {
                   </a>
                 </p>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

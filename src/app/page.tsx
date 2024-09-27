@@ -15,7 +15,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Youth Notion",
-  description: "Free Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.",
+  description: "We believe in Youth.",
 };
 
 export default function Home() {
@@ -27,9 +27,6 @@ export default function Home() {
       <Hero />
       <Features />
       <About />
-      <CallToAction />
-      <Pricing />
-      <Testimonials />
       <Faq />
       <Team />
       <HomeBlogSection posts={posts} />
