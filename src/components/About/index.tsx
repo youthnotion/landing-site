@@ -12,17 +12,17 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                  Brilliant Toolkit to Build Next.js SaaS Websites.
+                  Empowering Youth to Create a Brighter Future
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                  Youth Notion empowers young individuals by providing essential
+                  skills, comprehensive education, and transformative leadership
+                  training, fostering a spirit of community service and personal
+                  growth.
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  We also promote civic responsibility and a healthy, drug-free
+                  lifestyle to prepare them for active roles in societal
+                  development.
                 </p>
 
                 <a
@@ -62,13 +62,13 @@ const About = () => {
                   <div className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-primary px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8">
                     <div>
                       <span className="block text-5xl font-extrabold text-white">
-                        09
+                        01
                       </span>
                       <span className="block text-base font-semibold text-white">
-                        We have
+                        We have grown for
                       </span>
                       <span className="block text-base font-medium text-white text-opacity-70">
-                        Years of experience
+                        Incredible Year
                       </span>
                     </div>
                     <div>

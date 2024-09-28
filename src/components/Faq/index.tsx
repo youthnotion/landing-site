@@ -6,9 +6,9 @@ const Faq = () => {
     <section className="relative z-20 overflow-hidden bg-white pb-8 pt-20 dark:bg-dark lg:pb-[50px] lg:pt-[120px]">
       <div className="container">
         <SectionTitle
-          subtitle="FAQ"
+          subtitle="At a Glance"
           title="Any Questions? Answered"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Find everything you need to know about Youth Notion through our frequently asked questions section."
           width="640px"
           center
         />
@@ -16,31 +16,31 @@ const Faq = () => {
         <div className="-mx-4 mt-[60px] flex flex-wrap lg:mt-20">
           <div className="w-full px-4 lg:w-1/2">
             <SingleFaq
-              question="How to use TailGrids?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What is Youth Notion?"
+              answer="Youth Notion is a non-profit organization based in Maijdee, Noakhali. It aims to empower young people to become self-reliant, responsible citizens and active contributors to national development ."
             />
             <SingleFaq
-              question="How to download icons from LineIcons?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What are the main goals of Youth Notion?"
+              answer="Our goals include addressing gaps in human resources, skills, education, and civic awareness among youth; empowering them to be self-reliant and responsible; fostering a sense of social responsibility and community involvement; and promoting a drug-free lifestyle ."
             />
             <SingleFaq
-              question="Is GrayGrids part of UIdeck?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="How does Youth Notion plan to achieve its goals in education?"
+              answer="We plan and provide career guidance, promote technical and vocational skills training, support education for disadvantaged groups, and raise awareness about social and environmental issues ."
             />
           </div>
 
           <div className="w-full px-4 lg:w-1/2">
             <SingleFaq
-              question="Can I use this template for commercial project?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="How does Youth Notion promote civic responsibility among youth?"
+              answer="Youth Notion instills civic responsibility by raising awareness about social and environmental issues, promoting democratic values, and encouraging active participation in community development projects ."
             />
             <SingleFaq
-              question="Do you have plan to releasing Play Pro?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What kind of research activities does Youth Notion conduct?"
+              answer="We conduct surveys and research to identify the challenges faced by the youth and to develop effective solutions. We also carry out studies on various social issues and their impact on young people ."
             />
             <SingleFaq
-              question="Where and how to host this template?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="How can someone become a member of Youth Notion?"
+              answer="To become a general member of Youth Notion, one must be a Bangladeshi citizen, at least 18 years old, of sound mind and good moral character, and committed to the organization's ideals. You must also pay a membership fee and monthly dues ."
             />
           </div>
         </div>

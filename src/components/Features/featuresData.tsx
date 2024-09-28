@@ -17,8 +17,9 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Bridging the Gap",
+    paragraph:
+      "Identify and address the gaps in human resources, skills, education, and civic awareness among youth.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -38,8 +39,9 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Youth Empowerment",
+    paragraph:
+      "Empowering youth to be self-reliant, responsible citizens, and active contributors to national development.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +93,9 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Skilled Youth Community",
+    paragraph:
+      "Equip every young person with skills, education, and values to drive positive change and responsibility.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -124,8 +127,9 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Social Responsibility",
+    paragraph:
+      "Instill social responsibility, encourage active community participation, and promote a healthy lifestyle for youth.",
     btn: "Learn More",
     btnLink: "/#",
   },

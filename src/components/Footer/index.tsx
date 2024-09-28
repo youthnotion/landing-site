@@ -11,9 +11,9 @@ const Footer = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-4/12 xl:w-3/12">
             <div className="mb-10 w-full">
-              <Link href="/" className="mb-6 inline-block max-w-[160px]">
+              <Link href="/" className="mb-6 inline-block max-w-[90px]">
                 <Image
-                  src="/images/logo/logo-white.svg"
+                  src="/images/logo/logo.svg"
                   alt="logo"
                   width={140}
                   height={30}
@@ -21,7 +21,8 @@ const Footer = () => {
                 />
               </Link>
               <p className="mb-8 max-w-[270px] text-base text-gray-7">
-                We empower youth to grow and become valuable asset for both society and the country.
+                We empower youth to grow and become valuable asset for both
+                society and the country.
               </p>
               <div className="-mx-3 flex items-center">
                 <a
@@ -137,7 +138,7 @@ const Footer = () => {
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                Features
+                Our Services
               </h4>
               <ul>
                 <li>
@@ -145,7 +146,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    How it works
+                    How we operate
                   </a>
                 </li>
                 <li>
@@ -153,7 +154,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    Privacy policy
+                    Data protection policy
                   </a>
                 </li>
                 <li>
@@ -161,7 +162,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    Terms of Service
+                    Help and Support
                   </a>
                 </li>
                 <li>
@@ -169,7 +170,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    Refund policy
+                    Community Impact
                   </a>
                 </li>
               </ul>
@@ -178,7 +179,7 @@ const Footer = () => {
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                Our Products
+                Our Projects
               </h4>
               <ul>
                 <li>
@@ -186,7 +187,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    LineIcons
+                    UniSchool
                   </a>
                 </li>
                 <li>
@@ -194,7 +195,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    Next.js Templates
+                    Sunagorik
                   </a>
                 </li>
                 <li>
@@ -202,7 +203,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    TailAdmin
+                    City health diagnostics
                   </a>
                 </li>
                 <li>
@@ -210,7 +211,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    PlainAdmin
+                    Desher Kotha
                   </a>
                 </li>
               </ul>

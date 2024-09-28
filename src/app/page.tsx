@@ -29,9 +29,9 @@ export default function Home() {
       <About />
       <Faq />
       <Team />
-      <HomeBlogSection posts={posts} />
+      {/* <HomeBlogSection posts={posts} /> */}
       <Contact />
-      <Clients />
+      {/* <Clients /> */}
     </main>
   );
 }
