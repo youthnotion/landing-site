@@ -28,7 +28,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="/#"
-                  className="px-3 text-gray-7 hover:text-white"
+                  className="px-3 text-gray-7 hover:text-youth"
                 >
                   <svg
                     width="22"
@@ -44,7 +44,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="/#"
-                  className="px-3 text-gray-7 hover:text-white"
+                  className="px-3 text-gray-7 hover:text-youth"
                 >
                   <svg
                     width="22"
@@ -60,7 +60,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="/#"
-                  className="px-3 text-gray-7 hover:text-white"
+                  className="px-3 text-gray-7 hover:text-youth"
                 >
                   <svg
                     width="22"
@@ -78,7 +78,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="/#"
-                  className="px-3 text-gray-7 hover:text-white"
+                  className="px-3 text-gray-7 hover:text-youth"
                 >
                   <svg
                     width="22"
@@ -103,7 +103,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Home
                   </a>
@@ -111,7 +111,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Features
                   </a>
@@ -119,7 +119,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     About
                   </a>
@@ -127,7 +127,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Testimonial
                   </a>
@@ -144,7 +144,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     How we operate
                   </a>
@@ -152,7 +152,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Data protection policy
                   </a>
@@ -160,7 +160,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Help and Support
                   </a>
@@ -168,7 +168,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Community Impact
                   </a>
@@ -185,7 +185,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     UniSchool
                   </a>
@@ -193,7 +193,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Sunagorik
                   </a>
@@ -201,7 +201,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     City health diagnostics
                   </a>
@@ -209,7 +209,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Desher Kotha
                   </a>
@@ -226,7 +226,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     FAQ
                   </a>
@@ -234,7 +234,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Blogs
                   </a>
@@ -242,7 +242,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     Support
                   </a>
@@ -250,7 +250,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
                   >
                     About
                   </a>
