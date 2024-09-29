@@ -77,8 +77,8 @@ const Team = () => {
       <div className="container">
         <div className="mb-[60px]">
           <SectionTitle
-            subtitle="Our Team"
-            title="Meet Our Team"
+            subtitle="Founders"
+            title="Meet Our Founding Team"
             paragraph="Our team is passionate about youth empowerment, combining civic education and technology to foster growth and leadership."
             width="640px"
             center

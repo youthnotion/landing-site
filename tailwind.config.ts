@@ -9,6 +9,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        kdamthmorpro: ['var(--font-kdam)'],
+      },
       colors: {
         youth: "#246476",
         notion: "#7DAE41",

@@ -1,4 +1,4 @@
-const Contact = () => {
+const   Contact = () => {
   return (
     <section id="contact" className="relative py-20 md:py-[120px]">
       <div className="absolute left-0 top-0 -z-[1] h-full w-full dark:bg-dark"></div>
@@ -69,7 +69,7 @@ const Contact = () => {
               data-wow-delay=".2s
               "
             >
-              <h3 className="mb-8 text-2xl font-semibold text-dark dark:text-white md:text-[28px] md:leading-[1.42]">
+              <h3 className="mb-8 text-2xl font-kdamthmorpro font-semibold text-dark dark:text-white md:text-[28px] md:leading-[1.42]">
                 Send us a Message
               </h3>
               <form>

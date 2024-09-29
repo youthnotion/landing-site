@@ -298,14 +298,14 @@ const Header = () => {
                     {pathUrl !== "/" || sticky ? (
                       <button
                         onClick={() => signOut()}
-                        className="signUpBtn rounded-lg bg-youth bg-opacity-100 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-20 hover:text-dark"
+                        className="signUpBtn rounded-lg bg-notion bg-opacity-100 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-20 hover:text-dark"
                       >
                         Sign Out
                       </button>
                     ) : (
                       <button
                         onClick={() => signOut()}
-                        className="signUpBtn rounded-lg bg-white bg-opacity-20 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-100 hover:text-dark"
+                        className="signUpBtn rounded-lg bg-notion bg-opacity-20 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-100 hover:text-dark"
                       >
                         Sign Out
                       </button>
@@ -323,7 +323,7 @@ const Header = () => {
                         </Link>
                         <Link
                           href="/signup"
-                          className="rounded-lg bg-youth px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-youth/90 dark:bg-white/10 dark:hover:bg-white/20"
+                          className="rounded-lg bg-notion px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-notion/20 dark:bg-notion/10 dark:hover:bg-notion/20"
                         >
                           Sign Up
                         </Link>
@@ -340,9 +340,9 @@ const Header = () => {
                         </Link>
                         <Link
                           href="/signup"
-                          className={`rounded-lg px-6 py-3 text-base font-medium bg-notion text-white duration-300 ease-in-out ${
+                          className={`rounded-lg bg-notion/100 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out ${
                             sticky
-                              ? "bg-hover:bg-notion/90 dark:bg-white/10 dark:hover:bg-white/20"
+                              ? "bg-hover:bg-notion/20 dark:bg-notion dark:hover:bg-notion/20"
                               : "bg-white/10 hover:bg-white/20"
                           }`}
                         >
