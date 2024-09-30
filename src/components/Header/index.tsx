@@ -64,14 +64,14 @@ const Header = () => {
                 {pathUrl !== "/" ? (
                   <>
                     <Image
-                      src={`/images/logo/logo.svg`}
+                      src={`/images/logo/YN-1.svg`}
                       alt="logo"
                       width={10}
                       height={10}
                       className="header-logo w-14 dark:hidden"
                     />
                     <Image
-                      src={`/images/logo/logo.svg`}
+                      src={`/images/logo/YN-1.svg`}
                       alt="logo"
                       width={10}
                       height={10}
@@ -83,20 +83,20 @@ const Header = () => {
                     <Image
                       src={`${
                         sticky
-                          ? "/images/logo/logo.svg"
-                          : "/images/logo/logo.svg"
+                          ? "/images/logo/YN-2.svg"
+                          : "/images/logo/YN-1.svg"
                       }`}
                       alt="logo"
                       width={10}
                       height={10}
-                      className="header-logo w-14 dark:hidden"
+                      className="header-logo w-max dark:hidden"
                     />
                     <Image
-                      src={"/images/logo/logo.svg"}
+                      src={"/images/logo/YN-3.svg"}
                       alt="logo"
                       width={10}
                       height={10}
-                      className="header-logo hidden w-14 dark:block"
+                      className="header-logo hidden w-max dark:block"
                     />
                   </>
                 )}
@@ -172,7 +172,7 @@ const Header = () => {
                               } ${
                                 pathUrl === menuItem?.path &&
                                 sticky &&
-                                "!text-youth"
+                                "!text-white"
                               }`}
                             >
                               {menuItem.title}

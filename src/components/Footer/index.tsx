@@ -27,7 +27,7 @@ const Footer = () => {
               <div className="-mx-3 flex items-center">
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://www.facebook.com/youthnotion"
                   className="px-3 text-gray-7 hover:text-youth"
                 >
                   <svg
@@ -77,7 +77,7 @@ const Footer = () => {
                 </a>
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://www.linkedin.com/company/youthnotion/"
                   className="px-3 text-gray-7 hover:text-youth"
                 >
                   <svg
