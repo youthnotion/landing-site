@@ -172,7 +172,7 @@ const Header = () => {
                               } ${
                                 pathUrl === menuItem?.path &&
                                 sticky &&
-                                "!text-white"
+                                "!text-youth"
                               }`}
                             >
                               {menuItem.title}
