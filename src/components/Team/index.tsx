@@ -42,7 +42,7 @@ const teamData: TeamType[] = [
   {
     id: 5,
     name: "Imranul Karim",
-    designation: "Operation Lead",
+    designation: "Operations Lead",
     image: "/images/team/imran.png",
     facebookLink: "https://www.facebook.com/blackbeardimran",
     linkedinLink: "https://www.linkedin.com/in/imranulkarim/",

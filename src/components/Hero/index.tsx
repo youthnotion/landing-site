@@ -56,7 +56,7 @@ const Hero = () => {
               >
                 <div className="mt-16">
                   <Image
-                    src="/images/hero/img.jpeg"
+                    src="/images/hero/banner.png"
                     alt="hero"
                     className="mx-auto max-w-full rounded-t-xl rounded-tr-xl"
                     width={845}
