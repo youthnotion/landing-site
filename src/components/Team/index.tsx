@@ -61,7 +61,7 @@ const teamData: TeamType[] = [
   {
     id: 7,
     name: "Abid Hasan",
-    designation: "IT Lead",
+    designation: "Software & IT Lead",
     image: "/images/team/abid.png",
     facebookLink: "/#",
     linkedinLink: "/#",
