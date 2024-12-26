@@ -28,7 +28,7 @@ Node.js is a runtime environment for JavaScript, and npm is a package manager fo
 4. Go fuck yourself if you can't follow such simple steps.
 
 #### For macOS:
-1. Nobody gives a flying fuck about your overpriced hunk of aluminium that passes as a computer running a piece of shit OS, kindly fuck off to the nearest coffee shop.
+![alt text](https://media.tenor.com/XcwA0JTGCcAAAAAe/why-are-you-gae-meme.png)
 
 #### For Linux:
 1. You are smart enough, simply follow the instructions on the [Node.js download page](https://nodejs.org/en/download/package-manager/).
@@ -146,8 +146,3 @@ The `build` folder will contain all the necessary files to deploy the site.
 - **Installation Errors**: Ensure Node.js and npm are correctly installed.
 - **Server Not Starting**: Check for errors in the terminal and resolve any missing dependencies.
 - **Changes Not Reflecting**: Make sure you save your files and refresh the browser.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-That's it! You've got a detailed guide to get started with the YouthNotion Landing Site project. If you encounter any issues or have questions, feel free to ask.
