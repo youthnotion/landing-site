@@ -49,17 +49,17 @@ const teamData: TeamType[] = [
     instagramLink: "/#",
   },
 
+  // {
+  //   id: 6,
+  //   name: "Mahadi Sajjad Neloy",
+  //   designation: "Engineering Lead",
+  //   image: "/images/team/neloy.png",
+  //   facebookLink: "/#",
+  //   linkedinLink: "/#",
+  //   instagramLink: "/#",
+  // },
   {
     id: 6,
-    name: "Mahadi Sajjad Neloy",
-    designation: "Engineering Lead",
-    image: "/images/team/neloy.png",
-    facebookLink: "/#",
-    linkedinLink: "/#",
-    instagramLink: "/#",
-  },
-  {
-    id: 7,
     name: "Abid Hasan",
     designation: "Software & IT Lead",
     image: "/images/team/abid.png",
