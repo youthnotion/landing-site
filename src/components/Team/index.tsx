@@ -67,6 +67,15 @@ const teamData: TeamType[] = [
     linkedinLink: "/#",
     instagramLink: "/#",
   },
+ {
+    id: 7,
+    name: "Iftekharul Islam",
+    designation: "Business Developer",
+    image: "/images/team/ifekharul Islam.jpg",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+  },
 ];
 
 const Team = () => {
