@@ -76,7 +76,51 @@ const teamData: TeamType[] = [
     linkedinLink: "/#",
     instagramLink: "/#",
   },
-];
+ {
+    id: 8,
+    name: "Sumit Das",
+    designation: "Accountant",
+    image: "/images/team/Sumit Das.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+  },
+id: 9,
+    name: "Sahidul Islam Rahat",
+    designation: "Youth Chief",
+    image: "/images/team/Sahidul Islam Rahat.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+  },
+ {
+id: 10,
+    name: "Muaz Labib",
+    designation: "Youth Chief",
+    image: "/images/team/Muaz Labib.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+   },
+  {
+  id: 10,
+    name: "Meheraj Patwari",
+    designation: "Youth Chief",
+    image: "/images/team/Meheraj Patwari.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+   },
+  {
+    id: 11,
+    name: "Khalid Saifullah",
+    designation: "Graphic/UI Designer",
+    image: "/images/team/Evan.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
+   }, 
+  ];
 
 const Team = () => {
   return (
