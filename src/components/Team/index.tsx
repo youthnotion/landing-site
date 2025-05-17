@@ -49,25 +49,16 @@ const teamData: TeamType[] = [
     instagramLink: "/#",
   },
 
-  // {
-  //   id: 6,
-  //   name: "Mahadi Sajjad Neloy",
-  //   designation: "Engineering Lead",
-  //   image: "/images/team/neloy.png",
-  //   facebookLink: "/#",
-  //   linkedinLink: "/#",
-  //   instagramLink: "/#",
-  // },
   {
     id: 6,
-    name: "Abid Hasan",
-    designation: "Software & IT Lead",
-    image: "/images/team/abid.png",
+    name: "Mahadi Sajjad Neloy",
+    designation: "Engineering Lead",
+    image: "/images/team/neloy.png",
     facebookLink: "/#",
     linkedinLink: "/#",
     instagramLink: "/#",
   },
- {
+  {
     id: 7,
     name: "Iftekharul Islam",
     designation: "Business Developer",
@@ -76,7 +67,7 @@ const teamData: TeamType[] = [
     linkedinLink: "/#",
     instagramLink: "/#",
   },
- {
+  {
     id: 8,
     name: "Sumit Das",
     designation: "Accountant",
@@ -112,7 +103,7 @@ const teamData: TeamType[] = [
     instagramLink: "/#",
    },
   {
-    id: 11,
+    id: 12,
     name: "Khalid Saifullah",
     designation: "Graphic/UI Designer",
     image: "/images/team/Evan.png",
