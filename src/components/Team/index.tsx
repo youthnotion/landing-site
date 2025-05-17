@@ -48,7 +48,6 @@ const teamData: TeamType[] = [
     linkedinLink: "https://www.linkedin.com/in/imranulkarim/",
     instagramLink: "/#",
   },
-
   {
     id: 6,
     name: "Mahadi Sajjad Neloy",
@@ -76,6 +75,7 @@ const teamData: TeamType[] = [
     linkedinLink: "/#",
     instagramLink: "/#",
   },
+  {
     id: 9,
     name: "Sahidul Islam Rahat",
     designation: "Youth Chief",
@@ -84,7 +84,7 @@ const teamData: TeamType[] = [
     linkedinLink: "/#",
     instagramLink: "/#",
   },
- {
+  {
     id: 10,
     name: "Muaz Labib",
     designation: "Youth Chief",
@@ -92,7 +92,7 @@ const teamData: TeamType[] = [
     facebookLink: "/#",
     linkedinLink: "/#",
     instagramLink: "/#",
-   },
+  },
   {
     id: 11,
     name: "Meheraj Patwari",
@@ -101,7 +101,7 @@ const teamData: TeamType[] = [
     facebookLink: "/#",
     linkedinLink: "/#",
     instagramLink: "/#",
-   },
+  },
   {
     id: 12,
     name: "Khalid Saifullah",
@@ -110,8 +110,8 @@ const teamData: TeamType[] = [
     facebookLink: "/#",
     linkedinLink: "/#",
     instagramLink: "/#",
-   }, 
-  ];
+  }
+]; 
 
 const Team = () => {
   return (
