@@ -50,9 +50,9 @@ const teamData: TeamType[] = [
   },
   {
     id: 6,
-    name: "Mahadi Sajjad Neloy",
-    designation: "Engineering Lead",
-    image: "/images/team/neloy.png",
+    name: "Samsun Naher",
+    designation: "Research Lead",
+    image: "/images/team/Samsun Naher.png",
     facebookLink: "/#",
     linkedinLink: "/#",
     instagramLink: "/#",
