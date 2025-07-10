@@ -120,7 +120,7 @@ const teamData: TeamType[] = [
     linkedinLink: "/#",
     instagramLink: "/#",
   }
-]; 
+];
 
 const Team = () => {
   return (
