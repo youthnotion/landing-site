@@ -110,8 +110,17 @@ const teamData: TeamType[] = [
     facebookLink: "/#",
     linkedinLink: "/#",
     instagramLink: "/#",
+  },
+  {
+    id: 13,
+    name: "Rakan Mohammed",
+    designation: "Co Web-Developer",
+    image: "/images/team/rakan.png",
+    facebookLink: "/#",
+    linkedinLink: "/#",
+    instagramLink: "/#",
   }
-]; 
+];
 
 const Team = () => {
   return (
