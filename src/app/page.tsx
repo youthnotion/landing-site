@@ -1,3 +1,4 @@
+
 import About from "@/components/About";
 import HomeBlogSection from "@/components/Blog/HomeBlogSection";
 import CallToAction from "@/components/CallToAction";
@@ -10,6 +11,7 @@ import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
 import Team from "@/components/Team";
 import Testimonials from "@/components/Testimonials";
+import CurrentProjects from "@/components/CurrentProjects";
 import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
 
@@ -29,6 +31,7 @@ export default function Home() {
       <About />
       <Faq />
       <Team />
+      <CurrentProjects />
       {/* <HomeBlogSection posts={posts} /> */}
       <Contact />
       {/* <Clients /> */}
