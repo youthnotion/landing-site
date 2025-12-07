@@ -184,10 +184,12 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="/#"
+                    href="https://youthnotion.github.io/TERRA/"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-youth"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
-                    UniSchool
+                    Project Terra
                   </a>
                 </li>
                 <li>

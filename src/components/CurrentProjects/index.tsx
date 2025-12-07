@@ -7,10 +7,10 @@ const CurrentProjects = () => {
         <h2 className="mb-6 text-3xl font-bold text-dark dark:text-white text-center">Current Projects</h2>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {/* Example projects, replace with real data */}
-          <button className="rounded-lg bg-white dark:bg-dark-3 p-6 shadow-md text-left transition hover:shadow-lg focus:outline-none" type="button">
-            <h3 className="text-xl font-semibold mb-2">UniSchool</h3>
-            <p className="text-gray-700 dark:text-gray-300">Empowering students with modern education tools and resources.</p>
-          </button>
+          <a href="https://youthnotion.github.io/TERRA/" target="_blank" rel="noopener noreferrer" className="rounded-lg bg-white dark:bg-dark-3 p-6 shadow-md text-left transition hover:shadow-lg focus:outline-none block">
+            <h3 className="text-xl font-semibold mb-2">Project Terra</h3>
+            <p className="text-gray-700 dark:text-gray-300">Building the future of climate Science with innovative IoT solutions.</p>
+          </a>
           <a href="https://youthnotion.github.io/sunagorik" target="_blank" rel="noopener noreferrer" className="rounded-lg bg-white dark:bg-dark-3 p-6 shadow-md text-left transition hover:shadow-lg focus:outline-none block">
             <h3 className="text-xl font-semibold mb-2">Sunagorik</h3>
             <p className="text-gray-700 dark:text-gray-300">Promoting civic awareness and community engagement among youth.</p>
