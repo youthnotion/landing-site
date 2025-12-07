@@ -9,7 +9,7 @@ const CurrentProjects = () => {
           {/* Example projects, replace with real data */}
           <a href="https://youthnotion.github.io/TERRA/" target="_blank" rel="noopener noreferrer" className="rounded-lg bg-white dark:bg-dark-3 p-6 shadow-md text-left transition hover:shadow-lg focus:outline-none block">
             <h3 className="text-xl font-semibold mb-2">Project Terra</h3>
-            <p className="text-gray-700 dark:text-gray-300">Building the future of climate Science with innovative IoT solutions.</p>
+            <p className="text-gray-700 dark:text-gray-300">TRACKING AND ENVIRONMENTAL REAL-TIME RESPONSE APPARATUS</p>
           </a>
           <a href="https://youthnotion.github.io/sunagorik" target="_blank" rel="noopener noreferrer" className="rounded-lg bg-white dark:bg-dark-3 p-6 shadow-md text-left transition hover:shadow-lg focus:outline-none block">
             <h3 className="text-xl font-semibold mb-2">Sunagorik</h3>
